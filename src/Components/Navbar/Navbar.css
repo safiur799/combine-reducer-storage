@@ -1,0 +1,5 @@
+.item:hover {
+  border-bottom: 2px solid peru;
+  font-size: medium;
+  font-weight: 600;
+}

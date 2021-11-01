@@ -1,0 +1,28 @@
+.form {
+  background-color: #f5f5f0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  height: 400px;
+  width: 400px;
+}
+.login {
+  width: 300px;
+  height: 250px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  border-style: outset;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
